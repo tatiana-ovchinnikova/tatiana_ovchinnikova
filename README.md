@@ -11,7 +11,7 @@
 <br />
 — 2021г – finished Software Testing course (QA Universe) (https://qauniverse.ru)
 <br />
-— 09.2021-02.2022 – worked as an assistant of  the mentor of Software Testing course (QA Universe). Systematized theoretical material an d developed practical tasks for students.
+— 09.2021-02.2022 – worked as an assistant of  the mentor of Software Testing course (QA Universe). Systematized theoretical material and developed practical tasks for students.
 <br />
 — 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test scenarios, test cases, executed test runs, if any bug - created bug reports.
 <br />
