@@ -15,7 +15,7 @@
 <br />
 — 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test scenarios, test cases, executed test runs, if any bug - created bug reports.
 <br />
-— март - апрель 2022 – рdeveloped a free theoretical course of manual software testing for beginners (https://stepik.org/115268).
+— 03.2022 - 05.2022 – developed a free theoretical course of manual software testing for beginners (https://stepik.org/115268).
 <br />
 <br />
 
@@ -39,7 +39,7 @@ bug reorts:
 <p> https://docs.google.com/document/d/1wDz94EqzLyr9EKzlTFYLRmUvXMGfv3Xf/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 
 <br />
-— -	basic understanding of HTTP protocol and API testing experience (Postman)
+— basic understanding of HTTP protocol and API testing experience (Postman)
 <br />
 <br />
 **Technologies/instruments:**
