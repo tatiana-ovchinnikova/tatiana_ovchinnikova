@@ -34,7 +34,7 @@ test cases:
 <br />
 — understanding of bug tracking systems work (creation of bug reports in Jira) as well as understanding of SDLC processes (classical models and agile)
 <br />
-bug reorts:
+bug reports:
 <p> https://docs.google.com/document/d/1MJFMTub9HwVkTppTFSBApfki7ryi_0jo/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <p> https://docs.google.com/document/d/1wDz94EqzLyr9EKzlTFYLRmUvXMGfv3Xf/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 
