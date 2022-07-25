@@ -11,9 +11,9 @@
 <br />
 — 2021г – finished Software Testing course (QA Universe) (https://qauniverse.ru)
 <br />
-— 09.2021-02.2022 – worked as an assistant of  the mentor of Software Testing course (QA Universe). Systematized theoretical material and developed practical tasks for students.
+— 09.2021-02.2022 – worked as an assistant of the mentor of Software Testing course (QA Universe). Systematized theoretical material and developed practical tasks for students.
 <br />
-— 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test scenarios, test cases, executed test runs, if any bug - created bug reports.
+— 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test cases, executed test runs, if any bug - created bug reports.
 <br />
 — 03.2022 - 05.2022 – developed a free theoretical course of manual software testing for beginners (https://stepik.org/115268).
 <br />
@@ -50,7 +50,8 @@ bug reports:
 <p>-	Postman (GET/POST/PUT/DELETE requests, simple autotests)</p>
 <p>-	HTML, CSS (basic knowledge)</p>
 <p>-	JavaScript (basic coding: simple slider, calculator)</p>
-<p>-	SQL (simple scripts with SELECT, CREATE, UPDATE, DELETE)</p>
+<p>-	SQL (certificate https://stepik.org/cert/1564701)</p>
+<p>-	Linux (certificate https://stepik.org/cert/1582801)</p>
 
 <br />
 <br />
@@ -60,7 +61,7 @@ bug reports:
 — English language — Advanced
 <br />
 <br />
-**О себе:**
+**About me:**
 <br />
 In life: active, responsible and open to new learning, have good communication and collaboration skills .
 In work: a fast learner, problem solving oriented and patient to details.
