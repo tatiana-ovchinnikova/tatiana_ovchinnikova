@@ -21,7 +21,7 @@
 
 **Skills:**
 <br />
-— web applications testing (creation of checklists,  test cases  and running  them in test management system) (Task Manager Tool,  https://silly-boyd-1a3d02.netlify.app/)
+— web applications testing (creation of checklists,  test cases  and running  them in test management system) (https://github.com/tatiana-ovchinnikova/Task-Manager-Tool)
 <p> mindmap: https://drive.google.com/file/d/1MHUkdyidpRqbDszkfuMlQwSwOR9XFnhN/view?usp=sharing  </p>
 <p> testing strategy: https://docs.google.com/document/d/13swzIVw2RWSU2TrTikyAcEKL24LoUJfl/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <p> testing report: https://docs.google.com/document/d/13OhNp9dwb3D64gmL5ME-eaJqeRPTyTmj/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
