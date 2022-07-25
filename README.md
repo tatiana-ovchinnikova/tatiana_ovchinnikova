@@ -47,7 +47,7 @@ bug reports:
 -	Jira
 <p>-	DevTools </p>
 <p>-	TestRail, QA Touch </p>
-<p>-	Postman (GET/POST/PUT/DELETE requests, simple autotests)</p>
+<p>-	Postman (GET/POST/PUT/DELETE requests)</p>
 <p>-	HTML, CSS (basic knowledge)</p>
 <p>-	JavaScript (basic coding: simple slider, calculator)</p>
 <p>-	SQL (certificate https://stepik.org/cert/1564701)</p>
