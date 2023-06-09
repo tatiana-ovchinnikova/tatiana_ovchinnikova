@@ -9,18 +9,19 @@
 <br />
 **Experience:**
 <br />
-— 2021г – finished Software Testing course (QA Universe) (https://qauniverse.ru)
+— 2020 - up to now – selflearning of Software Testing 
 <br />
-— 09.2021-02.2022 – worked as an assistant of the mentor of Software Testing course (QA Universe). Systematized theoretical material and developed practical tasks for students.
+— 09.2021-02.2022 – worked as an assistant of the mentor of Software Testing course (QA Universe, https://qauniverse.ru). Systematized theoretical material and developed practical tasks for students.
 <br />
 — 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test cases, executed test runs, if any bug - created bug reports.
 <br />
-— 03.2022 - 05.2022 – developed a free theoretical course of manual software testing for beginners (https://stepik.org/115268).
+— 03.2022 - 05.2022 – developed a theoretical course of manual software testing for beginners (https://stepik.org/115268) and a practical course for GitHub learning ().
 <br />
 <br />
 
 **Skills:**
 <br />
+— web-site testing (creation of checklists,  test cases  and running  them in test management system) https://github.com/tatiana-ovchinnikova/vkusvill
 — web applications testing (creation of checklists,  test cases  and running  them in test management system) (https://github.com/tatiana-ovchinnikova/Task-Manager-Tool)
 <p> mindmap: https://drive.google.com/file/d/1MHUkdyidpRqbDszkfuMlQwSwOR9XFnhN/view?usp=sharing  </p>
 <p> testing strategy: https://docs.google.com/document/d/13swzIVw2RWSU2TrTikyAcEKL24LoUJfl/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
@@ -45,7 +46,7 @@ bug reports:
 **Technologies/instruments:**
 <br />
 -	Jira
-<p>-	DevTools </p>
+<p>-	Git </p>
 <p>-	TestRail, QA Touch </p>
 <p>-	Postman (GET/POST/PUT/DELETE requests)</p>
 <p>-	HTML, CSS (basic knowledge)</p>
@@ -66,12 +67,13 @@ bug reports:
 In life: active, responsible and open to new learning, have good communication and collaboration skills .
 In work: a fast learner, problem solving oriented and patient to details.
 <br />
-I like to share my knowledge with others, so I currently run a free Stepik course where help other people understand and learn manual testing.
+I like to share my knowledge with others, so I currently run a Stepik course where help other people understand and learn manual testing.
 <br />
 My hobbies are reading, designing and making short videos for kids in English based on books (https://www.youtube.com/channel/UCj4wV_z8XEo_Fgd8QsOsSew) 
 
 🚧 **My tasks:**
 <!-- TODO-IST:START -->
 <br />
+* [ ] learn Python 
 * [ ] learn Python       
 <!-- TODO-IST:END -->
