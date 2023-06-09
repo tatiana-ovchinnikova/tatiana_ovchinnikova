@@ -68,7 +68,7 @@ bug reports:
 In life: active, responsible and open to new learning, have good communication and collaboration skills .
 In work: a fast learner, problem solving oriented and patient to details.
 <br />
-I like to share my knowledge with others, so I currently run a Stepik course where help other people understand and learn manual testing.
+I like to share my knowledge with others, so I currently run a Stepik course where help other people understand and learn manual testing and github.
 <br />
 My hobbies are reading, designing and making short videos for kids in English based on books (https://www.youtube.com/channel/UCj4wV_z8XEo_Fgd8QsOsSew) 
 
@@ -76,5 +76,6 @@ My hobbies are reading, designing and making short videos for kids in English ba
 <!-- TODO-IST:START -->
 <br />
 * [ ] learn Python 
+<br />
 * [ ] learn Python       
 <!-- TODO-IST:END -->
