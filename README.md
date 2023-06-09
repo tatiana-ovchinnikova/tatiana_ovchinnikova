@@ -75,7 +75,7 @@ My hobbies are reading, designing and making short videos for kids in English ba
 🚧 **My tasks:**
 <!-- TODO-IST:START -->
 <br />
-* [ ] learn Python 
+* [ ] learn DevTools 
 <br />
 * [ ] learn Python       
 <!-- TODO-IST:END -->
