@@ -15,7 +15,7 @@
 <br />
 — 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test cases, executed test runs, if any bug - created bug reports.
 <br />
-— 03.2022 - 05.2022 – developed a theoretical course of manual software testing for beginners (https://stepik.org/115268) and a practical course for GitHub learning (https://stepik.org/126023).
+— 03.2022 - 05.2022 – developed a well-organised course of manual software testing for beginners (https://stepik.org/115268) and a very useful course for GitHub learning (https://stepik.org/126023).
 <br />
 <br />
 
@@ -68,7 +68,7 @@ bug reports:
 In life: active, responsible and open to new learning, have good communication and collaboration skills .
 In work: a fast learner, problem solving oriented and patient to details.
 <br />
-I like to share my knowledge with others, so I currently run a Stepik course where help other people understand and learn manual testing and github.
+I like to share my knowledge with others, so I currently run a Stepik course where help other people understand and learn manual testing and GitHub.
 <br />
 My hobbies are reading, designing and making short videos for kids in English based on books (https://www.youtube.com/channel/UCj4wV_z8XEo_Fgd8QsOsSew) 
 
