@@ -11,8 +11,6 @@
 <br />
 — 2020 - up to now – selflearning of Software Testing 
 <br />
-— 09.2021-02.2022 – worked as an assistant of the mentor of Software Testing course (QA Universe, https://qauniverse.ru). Systematized theoretical material and developed practical tasks for students.
-<br />
 — 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test cases, executed test runs, if any bug - created bug reports.
 <br />
 — 03.2022 - 05.2022 – developed a well-organised course of manual software testing for beginners (https://stepik.org/115268) and a very useful course for GitHub learning (https://stepik.org/126023).
