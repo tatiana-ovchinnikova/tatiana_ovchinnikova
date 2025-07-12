@@ -12,6 +12,8 @@
 <br />
 — 2025 - had a five-month internship in IT-Incubator as a manual QA Engineer (certificate: https://drive.google.com/file/d/1SWtYTu8Nd64vZe9wde5J03vea8RZu9Pf/view?usp=sharing) 
 <br />
+— 2024 - up to now – QA engineer (manual) in a project CodeMasterBot (bot for learning Python, https://t.me/skill_tester_bot)
+<br />
 — 2022 - 2025 – developed and am currently running my courses for manual QA Engineers: a powerful course of manual software testing for beginners (https://stepik.org/115268), a very useful course for GitHub learning (https://stepik.org/126023) as well as a course of Test Design techniques and a course of Serbian language for beginners.  
 <br />
 — 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test cases, executed test runs, if any bug - created bug reports.
