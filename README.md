@@ -65,7 +65,7 @@ bug reports:
 
 <b>Languages</b>  
 <br />
-— English language — Advanced
+— English — Advanced
 <br />
 <br />
 <b>About me</b>
