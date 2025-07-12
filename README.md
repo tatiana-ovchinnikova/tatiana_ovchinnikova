@@ -1,4 +1,4 @@
-### Tatiana Ovchinnikova, Junior QA (manual) 
+<b>Tatiana Ovchinnikova, QA Engineer (manual) </b>
 <p> Lipetsk, Russua </p>
 <p> 89192535408 </p>
 <p> tg7110019@gmail.com </p>
@@ -6,24 +6,31 @@
 <br />
 
 <br />
-**Experience:**
+<b>Experience</b>
 <br />
-— 2020 - up to now – selflearning of Software Testing 
+— 2025 - up to now – QA engineer (manual) in ADWIZE.ME (Telegram Marketing Platform). Checking UI/UX design, running API-testing 
+<br />
+— 2025 – a five-month internship in IT-Incubator as a manual QA Engineer (certificate:) 
+<br />
+— 2023 - 2024 – developed a course of Test Design techniques and a course of Serbian language for beginners, freelance and running my courses for manual QA Engineers
+<br />
+— 2022 - 2023 – developed a powerful course of manual software testing for beginners (https://stepik.org/115268) and a very useful course for GitHub learning (https://stepik.org/126023). I am still running it now.
 <br />
 — 01.10.2021-28.02.2022 – had an internship in «Итака» (ООО "Итака", a company in Lipetsk, Russia) as Junior QA (manual testing), checking changes in the internal OSS/BSS system. Created test cases, executed test runs, if any bug - created bug reports.
 <br />
-— 03.2022 - 05.2022 – developed a well-organised course of manual software testing for beginners (https://stepik.org/115268) and a very useful course for GitHub learning (https://stepik.org/126023).
-<br />
+— 2021 - up to now – self-learning of software testing
+
 <br />
 
-**Skills:**
+<br />
+<b>Skills</b>
 <br />
 <p>— web-site testing (creation of checklists,  test cases  and running  them in test management system) https://github.com/tatiana-ovchinnikova/vkusvill</p>
 <p>— web applications testing (creation of checklists,  test cases  and running  them in test management system) https://github.com/tatiana-ovchinnikova/Task-Manager-Tool</p>
-<p> mindmap: https://app.popplet.com/#/p/7422188  </p>
+<p>— mindmap creating: https://app.popplet.com/#/p/7422188  </p>
   <p>https://drive.google.com/file/d/1MHUkdyidpRqbDszkfuMlQwSwOR9XFnhN/view?usp=sharing  </p>
-<p> testing strategy: https://docs.google.com/document/d/13swzIVw2RWSU2TrTikyAcEKL24LoUJfl/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
-<p> testing report: https://docs.google.com/document/d/13OhNp9dwb3D64gmL5ME-eaJqeRPTyTmj/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
+<p>— testing strategy: https://docs.google.com/document/d/13swzIVw2RWSU2TrTikyAcEKL24LoUJfl/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
+<p>— testing report: https://docs.google.com/document/d/13OhNp9dwb3D64gmL5ME-eaJqeRPTyTmj/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <br />
 test cases:
 <p> https://docs.google.com/spreadsheets/d/1M6kzumr-W3_vAH-RQd2e0-qLJ0497w3X/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
@@ -41,12 +48,13 @@ bug reports:
 — basic understanding of HTTP protocol and API testing experience (Postman)
 <br />
 <br />
-**Technologies/instruments:**
+<b>Technologies/instruments</b>
 <br />
--	Jira
+<p>-	TestRail, QASE </p>
+<p>-	Postman (API-testing)</p>
+<p>-	DevTools </p>
 <p>-	Git </p>
-<p>-	TestRail, QA Touch </p>
-<p>-	Postman (GET/POST/PUT/DELETE requests)</p>
+<p>-	Jira </p>
 <p>-	HTML, CSS (basic knowledge)</p>
 <p>-	JavaScript (basic coding: simple slider, calculator)</p>
 <p>-	SQL (certificate https://stepik.org/cert/1564701)</p>
@@ -55,24 +63,19 @@ bug reports:
 <br />
 <br />
 
-**Languages:**  
+<b>Languages</>  
 <br />
 — English language — Advanced
 <br />
 <br />
-**About me:**
+<b>About me</b>
 <br />
 In life: active, responsible and open to new learning, have good communication and collaboration skills .
 In work: a fast learner, problem solving oriented and patient to details.
 <br />
-I like to share my knowledge with others, so I currently run a Stepik course where help other people understand and learn manual testing and GitHub.
+I like to share my knowledge with others, currently running Stepik courses to help other people understand and learn manual testing and GitHub.
 <br />
-My hobbies are reading, designing and making short videos for kids in English based on books (https://www.youtube.com/channel/UCj4wV_z8XEo_Fgd8QsOsSew) 
+My hobbies are jogging, designing and making short videos for kids in English based on books (https://www.youtube.com/channel/UCj4wV_z8XEo_Fgd8QsOsSew) 
 
-🚧 **My tasks:**
-<!-- TODO-IST:START -->
-<br />
-* [ ] learn DevTools 
-<br />
-* [ ] learn Python       
+      
 <!-- TODO-IST:END -->
