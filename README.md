@@ -10,7 +10,7 @@
 <br />
 — 2025 - up to now – QA engineer (manual) in ADWIZE.ME (Telegram Marketing Platform). Checking UI/UX design, running API-testing 
 <br />
-— 2025 – a five-month internship in IT-Incubator as a manual QA Engineer (certificate:) 
+— 2025 - had a five-month internship in IT-Incubator as a manual QA Engineer (certificate:) 
 <br />
 — 2023 - 2024 – developed a course of Test Design techniques and a course of Serbian language for beginners, freelance and running my courses for manual QA Engineers
 <br />
