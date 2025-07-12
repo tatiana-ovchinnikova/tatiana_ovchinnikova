@@ -1,5 +1,4 @@
 ### Tatiana Ovchinnikova, Junior QA (manual) 
-07.09.1985г 
 <p> Lipetsk, Russua </p>
 <p> 89192535408 </p>
 <p> tg7110019@gmail.com </p>
