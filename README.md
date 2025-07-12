@@ -63,7 +63,7 @@ bug reports:
 <br />
 <br />
 
-<b>Languages</>  
+<b>Languages</b>  
 <br />
 — English language — Advanced
 <br />
