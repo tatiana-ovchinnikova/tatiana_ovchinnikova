@@ -25,33 +25,30 @@
 <br />
 <b>Skills</b>
 <br />
-<p>— web-site testing (creation of checklists,  test cases  and running  them in test management system) https://github.com/tatiana-ovchinnikova/vkusvill</p>
-<p>— web applications testing (creation of checklists,  test cases  and running  them in test management system) https://github.com/tatiana-ovchinnikova/Task-Manager-Tool</p>
-<p>— mindmap creating: https://app.popplet.com/#/p/7422188  </p>
-  <p>https://drive.google.com/file/d/1MHUkdyidpRqbDszkfuMlQwSwOR9XFnhN/view?usp=sharing  </p>
-<p>— testing strategy: https://docs.google.com/document/d/13swzIVw2RWSU2TrTikyAcEKL24LoUJfl/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
-<p>— testing report: https://docs.google.com/document/d/13OhNp9dwb3D64gmL5ME-eaJqeRPTyTmj/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
-<br />
-test cases:
+<p>— thoroughful web-site testing using DevTools (created checklists, test cases and ran them in test management system) https://github.com/tatiana-ovchinnikova/vkusvill</p>
+<p>— well-organised web applications testing (created mindmaps, applied functional, non-functional and regression testing using test design techiques) https://github.com/tatiana-ovchinnikova/Task-Manager-Tool</p>
+<p>— created testing strategy (https://docs.google.com/document/d/13swzIVw2RWSU2TrTikyAcEKL24LoUJfl/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true) </p>
+<p> testing reports (https://docs.google.com/document/d/13OhNp9dwb3D64gmL5ME-eaJqeRPTyTmj/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true) </p>
+<p> and test cases:</p>
 <p> https://docs.google.com/spreadsheets/d/1M6kzumr-W3_vAH-RQd2e0-qLJ0497w3X/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <p> https://docs.google.com/spreadsheets/d/1SKz7PPHPMPR81JX273Y5TSemJ09MBrzz/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <p> https://docs.google.com/spreadsheets/d/1U3WTS2xubU9xcDw4CMZSk24r8r8XH1Ip/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <p> https://docs.google.com/spreadsheets/d/16oC71Rh-VD3-TevenkCAfgD933gm2lG1/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <br />
-— understanding of bug tracking systems work (creation of bug reports in Jira) as well as understanding of SDLC processes (classical models and agile)
+— get in a good touch with bug tracking systems (created bug reports in Jira and Bitrix24) as well understand SDLC processes (classical models and agile)
 <br />
 bug reports:
 <p> https://docs.google.com/document/d/1MJFMTub9HwVkTppTFSBApfki7ryi_0jo/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 <p> https://docs.google.com/document/d/1wDz94EqzLyr9EKzlTFYLRmUvXMGfv3Xf/edit?usp=sharing&ouid=106204960843233997044&rtpof=true&sd=true </p>
 
 <br />
-— basic understanding of HTTP protocol and API testing experience (Postman)
+— have knowledge of HTTP protocol and API testing experience (Postman)
 <br />
 <br />
 <b>Technologies/instruments</b>
 <br />
-<p>-	TestRail, QASE </p>
-<p>-	Postman (API-testing)</p>
+<p>-	Bitrix24, QASE </p>
+<p>-	Postman </p>
 <p>-	DevTools </p>
 <p>-	Git </p>
 <p>-	Jira </p>
